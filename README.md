@@ -4,8 +4,8 @@ A Simple Calculator App Using React
 
 Features:-
 
--Add
--Multiply
+:Add
+:Multiply
 -Subtract
 -Divide
 -Clear
