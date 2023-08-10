@@ -1,3 +1,22 @@
+React Calculator
+
+A Simple Calculator App Using React
+
+Features:-
+
+-Add
+-Multiply
+-Subtract
+-Divide
+-Clear
+-Equals
+-Delete
+-Add/multiply,subtract/divide can be clubbed together (just like a normal calculator on your phone).
+
+![Screenshot (371)](https://github.com/Hardik9800/Calculator/assets/51282682/b26ba318-60dd-4671-a807-41fbdb78b601)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
